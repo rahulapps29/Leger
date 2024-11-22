@@ -1,0 +1,3920 @@
+[
+  {
+    "tdate": "2024-11-18T00:00:00.000Z",
+    "desc": "rbl6620",
+    "amt": 4999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-16T00:00:00.000Z",
+    "desc": "axis8121",
+    "amt": 46914,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-16T00:00:00.000Z",
+    "desc": "axis5077",
+    "amt": 46953,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-16T00:00:00.000Z",
+    "desc": "axis7889",
+    "amt": 46862,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-16T00:00:00.000Z",
+    "desc": "idfc0130",
+    "amt": -104000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-12T00:00:00.000Z",
+    "desc": "one6868",
+    "amt": 55196,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-12T00:00:00.000Z",
+    "desc": "one6868",
+    "amt": 56326,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-11T00:00:00.000Z",
+    "desc": "idfc0130",
+    "amt": -125000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-11T00:00:00.000Z",
+    "desc": "icici4003",
+    "amt": 78104,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-11T00:00:00.000Z",
+    "desc": "icici4003",
+    "amt": 78104,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-11T00:00:00.000Z",
+    "desc": "icici4003",
+    "amt": 78104,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-10T00:00:00.000Z",
+    "desc": "axis1229",
+    "amt": -45000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-10T00:00:00.000Z",
+    "desc": "one6868",
+    "amt": 149429,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-10T00:00:00.000Z",
+    "desc": "icici1001",
+    "amt": 78104,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-10T00:00:00.000Z",
+    "desc": "icici1001",
+    "amt": 78104,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-09T00:00:00.000Z",
+    "desc": "axis1229",
+    "amt": -8226,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-09T00:00:00.000Z",
+    "desc": "idfc0130",
+    "amt": -86000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-08T00:00:00.000Z",
+    "desc": "idfc0130",
+    "amt": -30000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-08T00:00:00.000Z",
+    "desc": "axis1229",
+    "amt": -42000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-05T00:00:00.000Z",
+    "desc": "axis1229",
+    "amt": -59000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-05T00:00:00.000Z",
+    "desc": "idfc0130",
+    "amt": -96000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-03T00:00:00.000Z",
+    "desc": "rbl6620",
+    "amt": 6999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-03T00:00:00.000Z",
+    "desc": "idfc1410",
+    "amt": 14999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-03T00:00:00.000Z",
+    "desc": "axis1229",
+    "amt": -7000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-02T00:00:00.000Z",
+    "desc": "hdfc1502",
+    "amt": 8499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-02T00:00:00.000Z",
+    "desc": "icici4003",
+    "amt": 24848,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-02T00:00:00.000Z",
+    "desc": "idfc0130",
+    "amt": -44300,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-02T00:00:00.000Z",
+    "desc": "hdfc0308",
+    "amt": 11000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-02T00:00:00.000Z",
+    "desc": "hdfc0308",
+    "amt": 11099,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-02T00:00:00.000Z",
+    "desc": "hdfc1052",
+    "amt": 8499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "tdate": "2024-11-01T00:00:00.000Z",
+    "desc": "idfc0130",
+    "amt": -27000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-01T00:00:00.000Z",
+    "desc": "hdfc7082",
+    "amt": -100000,
+    "transtype": "got from rovin"
+  },
+  {
+    "tdate": "2024-11-01T00:00:00.000Z",
+    "desc": "axis1229",
+    "amt": -100000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "hdfc1502",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": 11099,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Hdfc0308",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": 11099,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Hdfc0308",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": 11000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Rbl6620",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": 17998,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Icici1001",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Axis1229",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": -15000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "hdfc1502rupay",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": 11099,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc7082",
+    "tdate": "2024-10-30T00:00:00.000Z",
+    "amt": -33300,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "rbl6620",
+    "tdate": "2024-10-29T00:00:00.000Z",
+    "amt": 12499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "jupyter",
+    "tdate": "2024-10-27T00:00:00.000Z",
+    "amt": -17000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "edge1036",
+    "tdate": "2024-10-27T00:00:00.000Z",
+    "amt": 12499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis1229",
+    "tdate": "2024-10-26T00:00:00.000Z",
+    "amt": -9000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-10-26T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-10-26T00:00:00.000Z",
+    "amt": 4499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-10-24T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-10-23T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi9869",
+    "tdate": "2024-10-21T00:00:00.000Z",
+    "amt": 52417,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "ax1229",
+    "tdate": "2024-10-21T00:00:00.000Z",
+    "amt": -40000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-10-21T00:00:00.000Z",
+    "amt": 52417,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Indus6864",
+    "tdate": "2024-10-20T00:00:00.000Z",
+    "amt": 17999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-10-19T00:00:00.000Z",
+    "amt": 5551,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-10-18T00:00:00.000Z",
+    "amt": 3400,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-10-17T00:00:00.000Z",
+    "amt": 21599,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-10-17T00:00:00.000Z",
+    "amt": 16109,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc1410",
+    "tdate": "2024-10-16T00:00:00.000Z",
+    "amt": 22999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "emiinterestau6864",
+    "tdate": "2024-10-15T00:00:00.000Z",
+    "amt": 2600,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-10-15T00:00:00.000Z",
+    "amt": 12499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-10-14T00:00:00.000Z",
+    "amt": 71524,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-10-14T00:00:00.000Z",
+    "amt": 71522,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Icici1001",
+    "tdate": "2024-10-14T00:00:00.000Z",
+    "amt": 71522,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Icici1001",
+    "tdate": "2024-10-14T00:00:00.000Z",
+    "amt": 71522,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-10-13T00:00:00.000Z",
+    "amt": -350000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-10-12T00:00:00.000Z",
+    "amt": 5378,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-10-12T00:00:00.000Z",
+    "amt": 7999,
+    "transtype": "gave t rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-10-12T00:00:00.000Z",
+    "amt": 33299,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-10-12T00:00:00.000Z",
+    "amt": 99800,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-10-11T00:00:00.000Z",
+    "amt": 10798,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbacksbi1869",
+    "tdate": "2024-10-11T00:00:00.000Z",
+    "amt": -1200,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "Icici1001",
+    "tdate": "2024-10-10T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc7082",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": -70000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbm5342",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": -15000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "axis7889",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": 52647,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "yes6025",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": 54147,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis5077",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": 52647,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "rbl6620",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": 54147,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc0308",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": 33299,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis8121",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": 56147,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbackaxis8121",
+    "tdate": "2024-10-09T00:00:00.000Z",
+    "amt": -2807,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "hdfc0308",
+    "tdate": "2024-10-07T00:00:00.000Z",
+    "amt": 26999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-10-06T00:00:00.000Z",
+    "amt": 6999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-10-04T00:00:00.000Z",
+    "amt": 31999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi9869",
+    "tdate": "2024-10-04T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi9869",
+    "tdate": "2024-10-04T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cash",
+    "tdate": "2024-10-03T00:00:00.000Z",
+    "amt": -100000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "cash",
+    "tdate": "2024-10-02T00:00:00.000Z",
+    "amt": -50000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "Axis8121",
+    "tdate": "2024-09-30T00:00:00.000Z",
+    "amt": 9499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis7889",
+    "tdate": "2024-09-30T00:00:00.000Z",
+    "amt": 9499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis5077",
+    "tdate": "2024-09-29T00:00:00.000Z",
+    "amt": 9499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "edge1036",
+    "tdate": "2024-09-28T00:00:00.000Z",
+    "amt": 8448,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc0308",
+    "tdate": "2024-09-28T00:00:00.000Z",
+    "amt": 11000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc0308",
+    "tdate": "2024-09-26T00:00:00.000Z",
+    "amt": 53647,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-09-25T00:00:00.000Z",
+    "amt": -250000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-09-23T00:00:00.000Z",
+    "amt": 134549,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-09-22T00:00:00.000Z",
+    "amt": 71524,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-09-22T00:00:00.000Z",
+    "amt": 71524,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "rbl6620",
+    "tdate": "2024-09-22T00:00:00.000Z",
+    "amt": 8448,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "rbl6620",
+    "tdate": "2024-09-22T00:00:00.000Z",
+    "amt": 30900,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-09-22T00:00:00.000Z",
+    "amt": 120230,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici1001",
+    "tdate": "2024-09-20T00:00:00.000Z",
+    "amt": 69614,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici1001",
+    "tdate": "2024-09-20T00:00:00.000Z",
+    "amt": 69614,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-09-20T00:00:00.000Z",
+    "amt": 20999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbmbank",
+    "tdate": "2024-09-20T00:00:00.000Z",
+    "amt": -100000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-09-20T00:00:00.000Z",
+    "amt": 44048,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Cash",
+    "tdate": "2024-09-19T00:00:00.000Z",
+    "amt": -200000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "Idfc1410",
+    "tdate": "2024-09-19T00:00:00.000Z",
+    "amt": 28825,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Axis5077",
+    "tdate": "2024-09-19T00:00:00.000Z",
+    "amt": 50900,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Cash",
+    "tdate": "2024-09-18T00:00:00.000Z",
+    "amt": -5000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "axis7889",
+    "tdate": "2024-09-17T00:00:00.000Z",
+    "amt": 50900,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-09-17T00:00:00.000Z",
+    "amt": -40000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "idfc1410",
+    "tdate": "2024-09-17T00:00:00.000Z",
+    "amt": 10000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis5077",
+    "tdate": "2024-09-17T00:00:00.000Z",
+    "amt": 10000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis7889",
+    "tdate": "2024-09-17T00:00:00.000Z",
+    "amt": 10000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-09-17T00:00:00.000Z",
+    "amt": 10000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-09-15T00:00:00.000Z",
+    "amt": 10648,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbacksbi1869",
+    "tdate": "2024-09-15T00:00:00.000Z",
+    "amt": -1000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "Idfc0130",
+    "tdate": "2024-09-12T00:00:00.000Z",
+    "amt": -7000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-09-11T00:00:00.000Z",
+    "amt": 11999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc7082",
+    "tdate": "2024-09-11T00:00:00.000Z",
+    "amt": -17000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-09-10T00:00:00.000Z",
+    "amt": 6999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-09-10T00:00:00.000Z",
+    "amt": 999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-09-07T00:00:00.000Z",
+    "amt": 48919,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbacksbi7405",
+    "tdate": "2024-09-06T00:00:00.000Z",
+    "amt": -1000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-09-06T00:00:00.000Z",
+    "amt": 10499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc1502",
+    "tdate": "2024-09-06T00:00:00.000Z",
+    "amt": 44999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-09-05T00:00:00.000Z",
+    "amt": 24999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc1410",
+    "tdate": "2024-09-03T00:00:00.000Z",
+    "amt": 15499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-09-01T00:00:00.000Z",
+    "amt": 13798,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-09-01T00:00:00.000Z",
+    "amt": -45000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-09-01T00:00:00.000Z",
+    "amt": -68778,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "hdfc7082",
+    "tdate": "2024-09-01T00:00:00.000Z",
+    "amt": -10000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-09-01T00:00:00.000Z",
+    "amt": -99999,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-08-31T00:00:00.000Z",
+    "amt": 33299,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-08-31T00:00:00.000Z",
+    "amt": 37800,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbm5342",
+    "tdate": "2024-08-27T00:00:00.000Z",
+    "amt": -1500,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-08-27T00:00:00.000Z",
+    "amt": -53500,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "flightrbl6620",
+    "tdate": "2024-08-27T00:00:00.000Z",
+    "amt": 5856,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "flightau6954",
+    "tdate": "2024-08-27T00:00:00.000Z",
+    "amt": 4667,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-08-21T00:00:00.000Z",
+    "amt": -37098,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-08-18T00:00:00.000Z",
+    "amt": 13798,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbacksbi7405",
+    "tdate": "2024-08-18T00:00:00.000Z",
+    "amt": -1000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-08-18T00:00:00.000Z",
+    "amt": 10999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-08-16T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-08-16T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-08-16T00:00:00.000Z",
+    "amt": 4500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis5077",
+    "tdate": "2024-08-13T00:00:00.000Z",
+    "amt": 97200,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-08-13T00:00:00.000Z",
+    "amt": 11634,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-08-11T00:00:00.000Z",
+    "amt": 14499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbacksbi9659",
+    "tdate": "2024-08-11T00:00:00.000Z",
+    "amt": -750,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-08-11T00:00:00.000Z",
+    "amt": 14848,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-08-11T00:00:00.000Z",
+    "amt": 18549,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-08-10T00:00:00.000Z",
+    "amt": 90000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Idfc0130",
+    "tdate": "2024-08-10T00:00:00.000Z",
+    "amt": 28154,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Idfc0130",
+    "tdate": "2024-08-10T00:00:00.000Z",
+    "amt": 16535,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-08-09T00:00:00.000Z",
+    "amt": -28000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-08-09T00:00:00.000Z",
+    "amt": -20000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-08-09T00:00:00.000Z",
+    "amt": -22000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-08-09T00:00:00.000Z",
+    "amt": -30000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-08-08T00:00:00.000Z",
+    "amt": -30000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-08-08T00:00:00.000Z",
+    "amt": 7999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc1410",
+    "tdate": "2024-08-08T00:00:00.000Z",
+    "amt": -45000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "hdfc7082",
+    "tdate": "2024-08-08T00:00:00.000Z",
+    "amt": -85000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-08-08T00:00:00.000Z",
+    "amt": -70000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-08-08T00:00:00.000Z",
+    "amt": 35000,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc1410",
+    "tdate": "2024-08-07T00:00:00.000Z",
+    "amt": 31999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54419,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": -340000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54421,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54421,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54421,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54421,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54419,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54419,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-08-04T00:00:00.000Z",
+    "amt": 54419,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-08-01T00:00:00.000Z",
+    "amt": -110000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "cashbackhdfc0308",
+    "tdate": "2024-07-31T00:00:00.000Z",
+    "amt": -1000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-07-31T00:00:00.000Z",
+    "amt": -80000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "cash",
+    "tdate": "2024-07-31T00:00:00.000Z",
+    "amt": -50000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "au6954",
+    "tdate": "2024-07-31T00:00:00.000Z",
+    "amt": 7398,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "indus5734",
+    "tdate": "2024-07-31T00:00:00.000Z",
+    "amt": 11999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc0308",
+    "tdate": "2024-07-31T00:00:00.000Z",
+    "amt": 9999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc1502",
+    "tdate": "2024-07-30T00:00:00.000Z",
+    "amt": 9999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "indus5734",
+    "tdate": "2024-07-30T00:00:00.000Z",
+    "amt": 4999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbackhdfc1502",
+    "tdate": "2024-07-30T00:00:00.000Z",
+    "amt": -1000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-07-26T00:00:00.000Z",
+    "amt": 12413,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-07-26T00:00:00.000Z",
+    "amt": 34999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-07-26T00:00:00.000Z",
+    "amt": 12413,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis8121",
+    "tdate": "2024-07-26T00:00:00.000Z",
+    "amt": 16999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis5077",
+    "tdate": "2024-07-26T00:00:00.000Z",
+    "amt": 16999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-07-26T00:00:00.000Z",
+    "amt": 12413,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-07-26T00:00:00.000Z",
+    "amt": 12413,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-07-25T00:00:00.000Z",
+    "amt": 17999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-07-24T00:00:00.000Z",
+    "amt": -45100,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-07-24T00:00:00.000Z",
+    "amt": -100000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-07-22T00:00:00.000Z",
+    "amt": 15499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-07-22T00:00:00.000Z",
+    "amt": 20484,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-07-22T00:00:00.000Z",
+    "amt": 20484,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "idfc0130",
+    "tdate": "2024-07-22T00:00:00.000Z",
+    "amt": -22500,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "hdfc1502",
+    "tdate": "2024-07-21T00:00:00.000Z",
+    "amt": 10749,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-07-20T00:00:00.000Z",
+    "amt": -25000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-07-20T00:00:00.000Z",
+    "amt": -25000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-07-20T00:00:00.000Z",
+    "amt": -25000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici3980",
+    "tdate": "2024-07-20T00:00:00.000Z",
+    "amt": -50000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-07-17T00:00:00.000Z",
+    "amt": 10499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbacksbi1869",
+    "tdate": "2024-07-17T00:00:00.000Z",
+    "amt": -1000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-07-16T00:00:00.000Z",
+    "amt": 11999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbacksbi7405",
+    "tdate": "2024-07-16T00:00:00.000Z",
+    "amt": -750,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "axis8121",
+    "tdate": "2024-07-15T00:00:00.000Z",
+    "amt": 14500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "axis5077",
+    "tdate": "2024-07-15T00:00:00.000Z",
+    "amt": 14500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "edge1036",
+    "tdate": "2024-07-14T00:00:00.000Z",
+    "amt": 6999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc1502",
+    "tdate": "2024-07-14T00:00:00.000Z",
+    "amt": 12898,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "one6868",
+    "tdate": "2024-07-14T00:00:00.000Z",
+    "amt": 14500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "Icici3980",
+    "tdate": "2024-07-13T00:00:00.000Z",
+    "amt": -10000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "icici7003",
+    "tdate": "2024-07-13T00:00:00.000Z",
+    "amt": 18500,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc7082",
+    "tdate": "2024-07-13T00:00:00.000Z",
+    "amt": -13100,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi9659",
+    "tdate": "2024-07-12T00:00:00.000Z",
+    "amt": 13218,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi7405",
+    "tdate": "2024-07-12T00:00:00.000Z",
+    "amt": 14499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-07-12T00:00:00.000Z",
+    "amt": 33897,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cash",
+    "tdate": "2024-07-12T00:00:00.000Z",
+    "amt": -50000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-07-12T00:00:00.000Z",
+    "amt": 14499,
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "hdfc0308",
+    "tdate": "2024-07-11T00:00:00.000Z",
+    "amt": 30999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 18500,
+    "desc": "icici4003",
+    "tdate": "2024-07-10T00:00:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici",
+    "tdate": "2024-07-09T00:00:00.000Z",
+    "amt": -18500,
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -30000,
+    "desc": "icici",
+    "tdate": "2024-07-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 16880,
+    "desc": "yes6025",
+    "tdate": "2024-07-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -45000,
+    "desc": "idfc0130",
+    "tdate": "2024-07-07T00:00:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 188239,
+    "desc": "icici4003",
+    "tdate": "2024-07-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 43490,
+    "desc": "icici7003",
+    "tdate": "2024-07-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 18500,
+    "desc": "one6868",
+    "tdate": "2024-07-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17249,
+    "desc": "one6868",
+    "tdate": "2024-07-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4000,
+    "desc": "edge1036",
+    "tdate": "2024-07-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 3448,
+    "desc": "edge1036",
+    "tdate": "2024-07-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 27999,
+    "desc": "idfc1410",
+    "tdate": "2024-07-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -200000,
+    "desc": "idfc",
+    "tdate": "2024-06-29T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 5000,
+    "desc": "edge1036",
+    "tdate": "2024-06-23T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 5499,
+    "desc": "edge1036",
+    "tdate": "2024-06-23T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 22998,
+    "desc": "icici4003",
+    "tdate": "2024-06-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 24200,
+    "desc": "sbi1869",
+    "tdate": "2024-06-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 24200,
+    "desc": "sbi7405",
+    "tdate": "2024-06-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 24200,
+    "desc": "sbi9659",
+    "tdate": "2024-06-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -20000,
+    "desc": "idfc",
+    "tdate": "2024-06-20T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 29798,
+    "desc": "idfc1410",
+    "tdate": "2024-06-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "icici4003",
+    "tdate": "2024-06-20T00:00:00.000Z",
+    "amt": 61113,
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -96500,
+    "desc": "icici",
+    "tdate": "2024-06-16T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -183000,
+    "desc": "idfc",
+    "tdate": "2024-06-16T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -94000,
+    "desc": "idfc",
+    "tdate": "2024-06-16T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 70567,
+    "desc": "icici1001",
+    "tdate": "2024-06-16T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 70569,
+    "desc": "icici1001",
+    "tdate": "2024-06-16T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 70567,
+    "desc": "icici1001",
+    "tdate": "2024-06-16T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 70569,
+    "desc": "icici1001",
+    "tdate": "2024-06-16T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17499,
+    "desc": "sbi9659",
+    "tdate": "2024-06-15T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 70569,
+    "desc": "icici7003",
+    "tdate": "2024-06-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 14000,
+    "desc": "one6868",
+    "tdate": "2024-06-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 70567,
+    "desc": "icici4003",
+    "tdate": "2024-06-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -168000,
+    "desc": "idfc",
+    "tdate": "2024-06-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 12748,
+    "desc": "edge1036",
+    "tdate": "2024-06-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbackaxis8121",
+    "tdate": "2024-06-13T00:00:00.000Z",
+    "amt": -750,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "axis8121",
+    "tdate": "2024-06-13T00:00:00.000Z",
+    "amt": 11999,
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -40000,
+    "desc": "idfc",
+    "tdate": "2024-06-11T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 12499,
+    "desc": "axis5077",
+    "tdate": "2024-06-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -10999,
+    "desc": "idfc",
+    "tdate": "2024-06-09T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 17499,
+    "desc": "sbi7405",
+    "tdate": "2024-06-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "icici4003",
+    "tdate": "2024-06-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "icici7003",
+    "tdate": "2024-06-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "hdfc0308",
+    "tdate": "2024-06-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -20000,
+    "desc": "idfc",
+    "tdate": "2024-06-06T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -40000,
+    "desc": "idfc",
+    "tdate": "2024-06-06T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "idfc",
+    "tdate": "2024-06-05T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -60000,
+    "desc": "idfc",
+    "tdate": "2024-06-04T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 21962,
+    "desc": "icici4003",
+    "tdate": "2024-06-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 14999,
+    "desc": "edge1036",
+    "tdate": "2024-06-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 21962,
+    "desc": "icici4003",
+    "tdate": "2024-06-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 21962,
+    "desc": "icici7003",
+    "tdate": "2024-06-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 21962,
+    "desc": "icici7003",
+    "tdate": "2024-06-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "sbi1869",
+    "tdate": "2024-05-31T00:00:00.000Z",
+    "amt": 17498,
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17498,
+    "desc": "sbi9659",
+    "tdate": "2024-05-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -40000,
+    "desc": "idfc",
+    "tdate": "2024-05-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 18849,
+    "desc": "edge1036",
+    "tdate": "2024-05-28T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "emicancelhdfc0308",
+    "tdate": "2024-05-28T00:00:00.000Z",
+    "amt": -1034,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "cashbackhdfc0308",
+    "tdate": "2024-05-28T00:00:00.000Z",
+    "amt": -2602,
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 25499,
+    "desc": "hdfc0308",
+    "tdate": "2024-05-25T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 16999,
+    "desc": "one6868",
+    "tdate": "2024-05-25T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbackicici7003",
+    "tdate": "2024-05-21T00:00:00.000Z",
+    "amt": -900,
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 33798,
+    "desc": "hdfc0308",
+    "tdate": "2024-05-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 11098,
+    "desc": "hdfc1502",
+    "tdate": "2024-05-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -87219,
+    "desc": "induspay",
+    "tdate": "2024-05-18T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -97000,
+    "desc": "aupayment",
+    "tdate": "2024-05-18T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 44881,
+    "desc": "icici4003",
+    "tdate": "2024-05-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 44881,
+    "desc": "icici4003",
+    "tdate": "2024-05-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 44881,
+    "desc": "icici7003",
+    "tdate": "2024-05-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -58000,
+    "desc": "idfc",
+    "tdate": "2024-05-10T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 14000,
+    "desc": "one6868",
+    "tdate": "2024-05-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 2832,
+    "desc": "onecharges",
+    "tdate": "2024-05-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbackindus6864",
+    "tdate": "2024-05-08T00:00:00.000Z",
+    "amt": -1500,
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 16999,
+    "desc": "indus6864",
+    "tdate": "2024-05-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -150000,
+    "desc": "cash",
+    "tdate": "2024-05-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "upi",
+    "tdate": "2024-05-06T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 51431,
+    "desc": "one6868",
+    "tdate": "2024-05-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 51431,
+    "desc": "one6868",
+    "tdate": "2024-05-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 25548,
+    "desc": "sbi7405",
+    "tdate": "2024-05-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -50000,
+    "desc": "paytm",
+    "tdate": "2024-05-05T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 47900,
+    "desc": "icici7003",
+    "tdate": "2024-05-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 14084,
+    "desc": "icici4003",
+    "tdate": "2024-05-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 47900,
+    "desc": "icici7003",
+    "tdate": "2024-05-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 30167,
+    "desc": "icici4003",
+    "tdate": "2024-05-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 15499,
+    "desc": "icici4003",
+    "tdate": "2024-05-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 29999,
+    "desc": "icici4003",
+    "tdate": "2024-05-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "desc": "cashbackaxis8121",
+    "tdate": "2024-05-03T00:00:00.000Z",
+    "amt": -1000,
+    "transtype": "got from rovin"
+  },
+  {
+    "desc": "cashbackaxis8121",
+    "tdate": "2024-05-03T00:00:00.000Z",
+    "amt": -600,
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 20107,
+    "desc": "axis8121",
+    "tdate": "2024-05-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 11097,
+    "desc": "axis8121",
+    "tdate": "2024-05-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi1869",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi9659",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "sbi9659",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 46499,
+    "desc": "icici4003",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "sbi1869",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 46499,
+    "desc": "icici7003",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 0,
+    "desc": "axis8121",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -150000,
+    "desc": "upi",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "upi",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -63000,
+    "desc": "upi",
+    "tdate": "2024-05-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 17998,
+    "desc": "citi7889",
+    "tdate": "2024-04-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "icici4003",
+    "tdate": "2024-04-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -10000,
+    "desc": "upi",
+    "tdate": "2024-04-23T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10499,
+    "desc": "hdfc1502",
+    "tdate": "2024-04-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10499,
+    "desc": "sbi9659",
+    "tdate": "2024-04-19T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -60000,
+    "desc": "upi",
+    "tdate": "2024-04-19T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "sbi1869",
+    "tdate": "2024-04-19T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 11398,
+    "desc": "citi7889",
+    "tdate": "2024-04-17T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -48000,
+    "desc": "upi",
+    "tdate": "2024-04-17T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 34018,
+    "desc": "au6954",
+    "tdate": "2024-04-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 27497,
+    "desc": "citi7889",
+    "tdate": "2024-04-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17665,
+    "desc": "icici7003",
+    "tdate": "2024-04-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17665,
+    "desc": "icici4003",
+    "tdate": "2024-04-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17665,
+    "desc": "icici4003",
+    "tdate": "2024-04-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17665,
+    "desc": "icici7003",
+    "tdate": "2024-04-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 35499,
+    "desc": "icici4003",
+    "tdate": "2024-04-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 12898,
+    "desc": "icici7003",
+    "tdate": "2024-04-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "indus6864",
+    "tdate": "2024-04-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 5499,
+    "desc": "indus6864",
+    "tdate": "2024-04-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -20000,
+    "desc": "upi",
+    "tdate": "2024-03-27T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -7000,
+    "desc": "upi",
+    "tdate": "2024-03-27T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -36000,
+    "desc": "upi",
+    "tdate": "2024-03-26T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -50000,
+    "desc": "upi",
+    "tdate": "2024-03-26T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -92000,
+    "desc": "upi",
+    "tdate": "2024-03-25T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -49999,
+    "desc": "upi",
+    "tdate": "2024-03-25T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 185000,
+    "desc": "cash/pooja",
+    "tdate": "2024-03-24T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10499,
+    "desc": "hdfc0308",
+    "tdate": "2024-03-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -28500,
+    "desc": "upi",
+    "tdate": "2024-03-21T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 186000,
+    "desc": "cash/shivam",
+    "tdate": "2024-03-19T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "icici4003",
+    "tdate": "2024-03-18T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "icici7003",
+    "tdate": "2024-03-18T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "icici4003",
+    "tdate": "2024-03-16T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 16999,
+    "desc": "icici7003",
+    "tdate": "2024-03-16T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -219000,
+    "desc": "upi",
+    "tdate": "2024-03-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "upi",
+    "tdate": "2024-03-12T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 23999,
+    "desc": "icici7003",
+    "tdate": "2024-03-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 29999,
+    "desc": "icici4003",
+    "tdate": "2024-03-10T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 21499,
+    "desc": "icici4003",
+    "tdate": "2024-03-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 21499,
+    "desc": "icici7003",
+    "tdate": "2024-03-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 23999,
+    "desc": "icici4003",
+    "tdate": "2024-03-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -99000,
+    "desc": "upi",
+    "tdate": "2024-03-02T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -90000,
+    "desc": "upi",
+    "tdate": "2024-03-02T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 12999,
+    "desc": "icici4003",
+    "tdate": "2024-02-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 41998,
+    "desc": "icici4003",
+    "tdate": "2024-02-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 45499,
+    "desc": "icici7003",
+    "tdate": "2024-02-17T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 14999,
+    "desc": "hdfc1502",
+    "tdate": "2024-02-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -18000,
+    "desc": "upi",
+    "tdate": "2024-02-06T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "upi",
+    "tdate": "2024-01-28T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "upi",
+    "tdate": "2024-01-28T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 145658,
+    "desc": "icici7003",
+    "tdate": "2024-01-27T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi1869",
+    "tdate": "2024-01-25T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi9659",
+    "tdate": "2024-01-25T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 9999,
+    "desc": "hdfc1502",
+    "tdate": "2024-01-17T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10998,
+    "desc": "hdfc1701",
+    "tdate": "2024-01-16T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 37498,
+    "desc": "icici7003",
+    "tdate": "2024-01-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 64147,
+    "desc": "icici7003",
+    "tdate": "2024-01-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -95000,
+    "desc": "upi",
+    "tdate": "2024-01-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "upi",
+    "tdate": "2024-01-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -24000,
+    "desc": "upi",
+    "tdate": "2024-01-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10999,
+    "desc": "icici7003",
+    "tdate": "2023-12-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 11998,
+    "desc": "icici7003",
+    "tdate": "2023-12-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 22999,
+    "desc": "hdfc1701",
+    "tdate": "2023-12-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "upi",
+    "tdate": "2023-12-25T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "upi",
+    "tdate": "2023-12-21T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 12499,
+    "desc": "icici7003",
+    "tdate": "2023-12-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -10000,
+    "desc": "upi",
+    "tdate": "2023-12-20T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -50000,
+    "desc": "upi",
+    "tdate": "2023-12-17T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 9999,
+    "desc": "icici7003",
+    "tdate": "2023-12-15T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -300000,
+    "desc": "upi",
+    "tdate": "2023-12-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -250000,
+    "desc": "upi",
+    "tdate": "2023-12-02T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "upi",
+    "tdate": "2023-12-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 99882,
+    "desc": "indus6864",
+    "tdate": "2023-11-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "cash",
+    "tdate": "2023-11-29T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -160000,
+    "desc": "upi",
+    "tdate": "2023-11-29T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 14999,
+    "desc": "axis5077",
+    "tdate": "2023-11-23T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 7999,
+    "desc": "axis5077",
+    "tdate": "2023-11-23T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -150000,
+    "desc": "upi",
+    "tdate": "2023-11-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 19999,
+    "desc": "hdfc1701",
+    "tdate": "2023-11-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "cash",
+    "tdate": "2023-11-12T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 17999,
+    "desc": "hdfc1502",
+    "tdate": "2023-11-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -5130,
+    "desc": "cardpayment",
+    "tdate": "2023-11-12T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 5130,
+    "desc": "icici1001",
+    "tdate": "2023-11-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "axis8121",
+    "tdate": "2023-11-09T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -45000,
+    "desc": "upi",
+    "tdate": "2023-11-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 11091,
+    "desc": "yes6025",
+    "tdate": "2023-11-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 99617,
+    "desc": "au6954",
+    "tdate": "2023-11-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -663,
+    "desc": "gstrebate",
+    "tdate": "2023-11-02T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -663,
+    "desc": "gstrebate",
+    "tdate": "2023-11-02T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -47000,
+    "desc": "upi",
+    "tdate": "2023-11-02T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 7829,
+    "desc": "geyser",
+    "tdate": "2023-11-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 47618,
+    "desc": "icici7003",
+    "tdate": "2023-11-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 7829,
+    "desc": "geyser",
+    "tdate": "2023-11-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 51647,
+    "desc": "sbi1869",
+    "tdate": "2023-10-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 51647,
+    "desc": "sbi9659",
+    "tdate": "2023-10-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 51647,
+    "desc": "sbi7405",
+    "tdate": "2023-10-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 25998,
+    "desc": "one6868",
+    "tdate": "2023-10-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 18998,
+    "desc": "one6868",
+    "tdate": "2023-10-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 89999,
+    "desc": "one6868",
+    "tdate": "2023-10-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -123000,
+    "desc": "upi",
+    "tdate": "2023-10-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -11000,
+    "desc": "redmi125g",
+    "tdate": "2023-10-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -2300,
+    "desc": "airfilter",
+    "tdate": "2023-10-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -10000,
+    "desc": "airpurifier",
+    "tdate": "2023-10-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 67902,
+    "desc": "one6868",
+    "tdate": "2023-10-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 75000,
+    "desc": "indus6864",
+    "tdate": "2023-10-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 54000,
+    "desc": "icici1001",
+    "tdate": "2023-10-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -120000,
+    "desc": "upi",
+    "tdate": "2023-10-27T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -10500,
+    "desc": "cash",
+    "tdate": "2023-10-24T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -20000,
+    "desc": "upi",
+    "tdate": "2023-10-24T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 55147,
+    "desc": "icici7003",
+    "tdate": "2023-10-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -60000,
+    "desc": "upi",
+    "tdate": "2023-10-19T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 15499,
+    "desc": "hdfc1502",
+    "tdate": "2023-10-17T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 55897,
+    "desc": "axis8121",
+    "tdate": "2023-10-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17999,
+    "desc": "hdfc1701",
+    "tdate": "2023-10-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -10000,
+    "desc": "airpurifier",
+    "tdate": "2023-10-12T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 350000,
+    "desc": "icicacc",
+    "tdate": "2023-10-09T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 100000,
+    "desc": "icicacc",
+    "tdate": "2023-10-09T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 11749,
+    "desc": "sbi1869",
+    "tdate": "2023-10-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -10349,
+    "desc": "upi",
+    "tdate": "2023-10-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10349,
+    "desc": "icici7003",
+    "tdate": "2023-10-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -13000,
+    "desc": "upi",
+    "tdate": "2023-10-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -7000,
+    "desc": "upi",
+    "tdate": "2023-10-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -54000,
+    "desc": "upi",
+    "tdate": "2023-10-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 19999,
+    "desc": "hdfc1502",
+    "tdate": "2023-10-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 53147,
+    "desc": "icici7003",
+    "tdate": "2023-10-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17499,
+    "desc": "sbi7405",
+    "tdate": "2023-10-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17499,
+    "desc": "sbi9659",
+    "tdate": "2023-10-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 45749,
+    "desc": "sbi7405",
+    "tdate": "2023-10-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 45749,
+    "desc": "sbi1869",
+    "tdate": "2023-10-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 45749,
+    "desc": "sbi9659",
+    "tdate": "2023-10-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -22000,
+    "desc": "upi",
+    "tdate": "2023-10-04T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi9659",
+    "tdate": "2023-10-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi7405",
+    "tdate": "2023-10-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi1869",
+    "tdate": "2023-10-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 21298,
+    "desc": "icici7003",
+    "tdate": "2023-09-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 16044,
+    "desc": "yes6025",
+    "tdate": "2023-09-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 135000,
+    "desc": "rbl0092",
+    "tdate": "2023-09-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 46000,
+    "desc": "idfc1410",
+    "tdate": "2023-09-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 96000,
+    "desc": "indus6864",
+    "tdate": "2023-09-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 70000,
+    "desc": "citi7889",
+    "tdate": "2023-09-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -2000,
+    "desc": "upi",
+    "tdate": "2023-09-21T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -27000,
+    "desc": "upi",
+    "tdate": "2023-09-19T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "upi",
+    "tdate": "2023-09-08T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 12499,
+    "desc": "hdfc1701",
+    "tdate": "2023-08-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 12499,
+    "desc": "sbi7405",
+    "tdate": "2023-08-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 12499,
+    "desc": "sbi1869",
+    "tdate": "2023-08-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -12499,
+    "desc": "cardpayment",
+    "tdate": "2023-08-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -12499,
+    "desc": "cardpayment",
+    "tdate": "2023-08-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 12499,
+    "desc": "sbi9659",
+    "tdate": "2023-08-30T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -39000,
+    "desc": "upi",
+    "tdate": "2023-08-23T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 40850,
+    "desc": "icici7003",
+    "tdate": "2023-08-23T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 14499,
+    "desc": "icici7003",
+    "tdate": "2023-08-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -100000,
+    "desc": "cash",
+    "tdate": "2023-08-16T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 70899,
+    "desc": "sbi1869",
+    "tdate": "2023-08-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -4500,
+    "desc": "cardpayment",
+    "tdate": "2023-08-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi7405",
+    "tdate": "2023-08-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "sbi9659",
+    "tdate": "2023-08-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 75000,
+    "desc": "sbi7405",
+    "tdate": "2023-08-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -15000,
+    "desc": "upi",
+    "tdate": "2023-08-11T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 28750,
+    "desc": "hdfc1701",
+    "tdate": "2023-08-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "upi",
+    "tdate": "2023-08-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 39999,
+    "desc": "icici7003",
+    "tdate": "2023-08-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -40000,
+    "desc": "upi",
+    "tdate": "2023-08-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -10601,
+    "desc": "gstrebate",
+    "tdate": "2023-07-24T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 21498,
+    "desc": "hdfc1701",
+    "tdate": "2023-07-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 30999,
+    "desc": "icici7003",
+    "tdate": "2023-07-17T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 8498,
+    "desc": "sbi9659",
+    "tdate": "2023-07-10T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -15000,
+    "desc": "upi",
+    "tdate": "2023-07-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -10000,
+    "desc": "upi",
+    "tdate": "2023-06-04T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 30999,
+    "desc": "hdfc1701",
+    "tdate": "2023-06-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -16000,
+    "desc": "cash",
+    "tdate": "2023-06-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -29999,
+    "desc": "upi",
+    "tdate": "2023-05-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 29999,
+    "desc": "hdfc1701",
+    "tdate": "2023-05-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 29090,
+    "desc": "citi7889",
+    "tdate": "2023-05-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 15000,
+    "desc": "icici7003",
+    "tdate": "2023-05-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -18999,
+    "desc": "upi",
+    "tdate": "2023-05-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "upi",
+    "tdate": "2023-05-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -9000,
+    "desc": "upi",
+    "tdate": "2023-04-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -24999,
+    "desc": "upi",
+    "tdate": "2023-04-12T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 51298,
+    "desc": "icici7003",
+    "tdate": "2023-04-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -38000,
+    "desc": "icici7003",
+    "tdate": "2023-04-08T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 28999,
+    "desc": "hdfc1701",
+    "tdate": "2023-04-06T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 27999,
+    "desc": "icici7003",
+    "tdate": "2023-04-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 8499,
+    "desc": "icici7003",
+    "tdate": "2023-04-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -28500,
+    "desc": "cash",
+    "tdate": "2023-04-05T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -18061,
+    "desc": "upi",
+    "tdate": "2023-04-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 12499,
+    "desc": "icici7003",
+    "tdate": "2023-03-27T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 500,
+    "desc": "icici7003",
+    "tdate": "2023-03-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 13649,
+    "desc": "hdfc1701",
+    "tdate": "2023-03-10T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -35000,
+    "desc": "cash",
+    "tdate": "2023-03-05T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 22653,
+    "desc": "sbi7405",
+    "tdate": "2023-03-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10000,
+    "desc": "sbi7405",
+    "tdate": "2023-03-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 26030,
+    "desc": "sbi9659",
+    "tdate": "2023-03-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 16999,
+    "desc": "sbi7405",
+    "tdate": "2023-03-02T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -50000,
+    "desc": "cash",
+    "tdate": "2023-03-02T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -25500,
+    "desc": "cash",
+    "tdate": "2023-02-28T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -27020,
+    "desc": "paid(phone)",
+    "tdate": "2023-02-04T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 24860,
+    "desc": "hdfc1701",
+    "tdate": "2023-02-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -20000,
+    "desc": "upi",
+    "tdate": "2023-02-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -20000,
+    "desc": "upi",
+    "tdate": "2023-02-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10475,
+    "desc": "citi7889",
+    "tdate": "2023-01-27T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 30499,
+    "desc": "icici7003",
+    "tdate": "2023-01-26T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -36500,
+    "desc": "cash",
+    "tdate": "2023-01-26T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 14261,
+    "desc": "indus6864",
+    "tdate": "2023-01-25T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 23852,
+    "desc": "indus6864",
+    "tdate": "2023-01-25T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -52000,
+    "desc": "cash",
+    "tdate": "2023-01-23T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 47999,
+    "desc": "citi7889",
+    "tdate": "2023-01-23T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 6798,
+    "desc": "rbl0092",
+    "tdate": "2023-01-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 12999,
+    "desc": "rbl0092",
+    "tdate": "2023-01-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 46999,
+    "desc": "rbl0092",
+    "tdate": "2023-01-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -65068,
+    "desc": "revicici7003",
+    "tdate": "2023-01-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -7000,
+    "desc": "upi",
+    "tdate": "2023-01-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 65068,
+    "desc": "icici7003",
+    "tdate": "2023-01-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 8749,
+    "desc": "sbi7405",
+    "tdate": "2023-01-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -9000,
+    "desc": "upi",
+    "tdate": "2023-01-13T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10499,
+    "desc": "hdfc1701",
+    "tdate": "2023-01-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 8749,
+    "desc": "sbi9659",
+    "tdate": "2023-01-13T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -28000,
+    "desc": "upi",
+    "tdate": "2023-01-13T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 16499,
+    "desc": "icici7003",
+    "tdate": "2023-01-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 6199,
+    "desc": "icici7003",
+    "tdate": "2023-01-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -21000,
+    "desc": "upi",
+    "tdate": "2022-12-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -24000,
+    "desc": "upi",
+    "tdate": "2022-12-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -50000,
+    "desc": "cash",
+    "tdate": "2022-12-28T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 13499,
+    "desc": "icici7003",
+    "tdate": "2022-12-12T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10149,
+    "desc": "hdfc1701",
+    "tdate": "2022-12-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 13019,
+    "desc": "sbi9659",
+    "tdate": "2022-12-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 13019,
+    "desc": "sbi7405",
+    "tdate": "2022-12-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -10000,
+    "desc": "upi",
+    "tdate": "2022-11-20T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -35000,
+    "desc": "upi",
+    "tdate": "2022-10-29T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -23500,
+    "desc": "upi",
+    "tdate": "2022-10-22T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 23499,
+    "desc": "icici7003",
+    "tdate": "2022-10-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -4500,
+    "desc": "upi",
+    "tdate": "2022-10-21T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 4500,
+    "desc": "icici7003",
+    "tdate": "2022-10-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 9490,
+    "desc": "icici7003",
+    "tdate": "2022-10-20T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -8549,
+    "desc": "reversalicici7003",
+    "tdate": "2022-10-19T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 33019,
+    "desc": "sbi9659",
+    "tdate": "2022-10-18T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 8549,
+    "desc": "icici7003",
+    "tdate": "2022-10-18T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 33019,
+    "desc": "sbi7405",
+    "tdate": "2022-10-18T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 8549,
+    "desc": "citi7889",
+    "tdate": "2022-10-18T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -15000,
+    "desc": "upi",
+    "tdate": "2022-10-18T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -51038,
+    "desc": "upi",
+    "tdate": "2022-10-18T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -8549,
+    "desc": "upi",
+    "tdate": "2022-10-18T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 43490,
+    "desc": "sbi7405",
+    "tdate": "2022-10-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 43490,
+    "desc": "sbi9659",
+    "tdate": "2022-10-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -21000,
+    "desc": "upi",
+    "tdate": "2022-10-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -33769,
+    "desc": "reversalsbi9659",
+    "tdate": "2022-10-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -33769,
+    "desc": "reversalsbi7405",
+    "tdate": "2022-10-14T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -50000,
+    "desc": "cash",
+    "tdate": "2022-10-12T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 8549,
+    "desc": "citi7889",
+    "tdate": "2022-10-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -67538,
+    "desc": "upi",
+    "tdate": "2022-10-11T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 8549,
+    "desc": "icici7003",
+    "tdate": "2022-10-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 33769,
+    "desc": "sbi7405",
+    "tdate": "2022-10-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -17098,
+    "desc": "upi",
+    "tdate": "2022-10-11T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 33769,
+    "desc": "sbi9659",
+    "tdate": "2022-10-11T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 33769,
+    "desc": "sbi7405",
+    "tdate": "2022-10-09T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 33769,
+    "desc": "sbi9659",
+    "tdate": "2022-10-09T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -33769,
+    "desc": "upi",
+    "tdate": "2022-10-09T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -17500,
+    "desc": "upi",
+    "tdate": "2022-10-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -16500,
+    "desc": "upi",
+    "tdate": "2022-10-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 16999,
+    "desc": "icici7003",
+    "tdate": "2022-10-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 25836,
+    "desc": "icici7003",
+    "tdate": "2022-10-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 16499,
+    "desc": "citi7889",
+    "tdate": "2022-10-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -25786,
+    "desc": "upi",
+    "tdate": "2022-10-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -57000,
+    "desc": "upi",
+    "tdate": "2022-10-03T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 57269,
+    "desc": "hdfc1701",
+    "tdate": "2022-10-03T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -33500,
+    "desc": "upi",
+    "tdate": "2022-10-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -22000,
+    "desc": "icici7003",
+    "tdate": "2022-10-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -7739,
+    "desc": "icici7003",
+    "tdate": "2022-10-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 53498,
+    "desc": "icici7003",
+    "tdate": "2022-10-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 7739,
+    "desc": "icici7003",
+    "tdate": "2022-10-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 21999,
+    "desc": "icici7003",
+    "tdate": "2022-10-01T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -20000,
+    "desc": "upi",
+    "tdate": "2022-10-01T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -32435,
+    "desc": "upi",
+    "tdate": "2022-09-30T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -44999,
+    "desc": "icici7003",
+    "tdate": "2022-09-29T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 44999,
+    "desc": "icici7003",
+    "tdate": "2022-09-29T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -19500,
+    "desc": "upi",
+    "tdate": "2022-09-27T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 19499,
+    "desc": "icici7003",
+    "tdate": "2022-09-27T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -45434,
+    "desc": "reversalsbi7405",
+    "tdate": "2022-09-26T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 5309,
+    "desc": "sbi9659",
+    "tdate": "2022-09-24T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -14000,
+    "desc": "idfc",
+    "tdate": "2022-09-24T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 5309,
+    "desc": "sbi7405",
+    "tdate": "2022-09-24T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -15600,
+    "desc": "upi",
+    "tdate": "2022-09-22T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 8499,
+    "desc": "sbi7405",
+    "tdate": "2022-09-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 8499,
+    "desc": "sbi9659",
+    "tdate": "2022-09-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 30019,
+    "desc": "icici7003",
+    "tdate": "2022-09-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 45434,
+    "desc": "sbi7405",
+    "tdate": "2022-09-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 45434,
+    "desc": "sbi9659",
+    "tdate": "2022-09-21T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "upi",
+    "tdate": "2022-09-19T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -25000,
+    "desc": "idfc",
+    "tdate": "2022-09-19T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 28999,
+    "desc": "icici7003",
+    "tdate": "2022-09-19T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -11999,
+    "desc": "upi",
+    "tdate": "2022-09-17T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 13499,
+    "desc": "icici7003",
+    "tdate": "2022-09-17T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 33999,
+    "desc": "icici7003",
+    "tdate": "2022-09-15T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -34000,
+    "desc": "upi",
+    "tdate": "2022-09-15T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10291,
+    "desc": "sbi9659",
+    "tdate": "2022-09-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10291,
+    "desc": "sbi7405",
+    "tdate": "2022-09-14T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 12999,
+    "desc": "icici7003",
+    "tdate": "2022-09-08T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -5479,
+    "desc": "upi",
+    "tdate": "2022-09-07T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 5479,
+    "desc": "icici7003",
+    "tdate": "2022-09-07T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -44000,
+    "desc": "upi",
+    "tdate": "2022-09-05T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 44000,
+    "desc": "icici7003",
+    "tdate": "2022-09-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -10026,
+    "desc": "upi",
+    "tdate": "2022-08-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -13000,
+    "desc": "upi",
+    "tdate": "2022-08-27T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 13028,
+    "desc": "icici7003",
+    "tdate": "2022-08-27T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -20706,
+    "desc": "upi",
+    "tdate": "2022-08-22T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 10728,
+    "desc": "sbi9659",
+    "tdate": "2022-08-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10728,
+    "desc": "sbi7405",
+    "tdate": "2022-08-22T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 9028,
+    "desc": "hdfc1701",
+    "tdate": "2022-08-18T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -17990,
+    "desc": "idfc",
+    "tdate": "2022-08-05T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 16000,
+    "desc": "cash",
+    "tdate": "2022-08-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 14528,
+    "desc": "icici7003",
+    "tdate": "2022-08-05T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -12999,
+    "desc": "idfc",
+    "tdate": "2022-08-05T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -21000,
+    "desc": "cash",
+    "tdate": "2022-08-04T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 21737,
+    "desc": "icici7003",
+    "tdate": "2022-08-04T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 20999,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -5000,
+    "desc": "gpay",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": 21898,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 14999,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 17499,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 18071,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10740,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 23499,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10740,
+    "desc": "sbi7405",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 10740,
+    "desc": "sbi9659",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": 11999,
+    "desc": "icici7003",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "gave to rovin"
+  },
+  {
+    "amt": -15000,
+    "desc": "idfc",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -5000,
+    "desc": "idfc",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -60000,
+    "desc": "idfc",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -41500,
+    "desc": "cash",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -10740,
+    "desc": "gpay",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  },
+  {
+    "amt": -24000,
+    "desc": "gpay",
+    "tdate": "2019-12-31T18:30:00.000Z",
+    "transtype": "got from rovin"
+  }
+]

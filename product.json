@@ -1,0 +1,4573 @@
+[
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-18T00:00:00.000Z",
+    "TransactionDescription": "rbl6620",
+    "Amt": 4999,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-16T00:00:00.000Z",
+    "TransactionDescription": "axis8121",
+    "Amt": 46914,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-16T00:00:00.000Z",
+    "TransactionDescription": "axis5077",
+    "Amt": 46953,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-16T00:00:00.000Z",
+    "TransactionDescription": "axis7889",
+    "Amt": 46862,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-16T00:00:00.000Z",
+    "TransactionDescription": "idfc0130",
+    "Amt": -104000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-12T00:00:00.000Z",
+    "TransactionDescription": "one6868",
+    "Amt": 55196,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-12T00:00:00.000Z",
+    "TransactionDescription": "one6868",
+    "Amt": 56326,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-11T00:00:00.000Z",
+    "TransactionDescription": "idfc0130",
+    "Amt": -125000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-11T00:00:00.000Z",
+    "TransactionDescription": "icici4003",
+    "Amt": 78104,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-11T00:00:00.000Z",
+    "TransactionDescription": "icici4003",
+    "Amt": 78104,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-11T00:00:00.000Z",
+    "TransactionDescription": "icici4003",
+    "Amt": 78104,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-10T00:00:00.000Z",
+    "TransactionDescription": "axis1229",
+    "Amt": -45000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-10T00:00:00.000Z",
+    "TransactionDescription": "one6868",
+    "Amt": 149429,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-10T00:00:00.000Z",
+    "TransactionDescription": "icici1001",
+    "Amt": 78104,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-10T00:00:00.000Z",
+    "TransactionDescription": "icici1001",
+    "Amt": 78104,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-09T00:00:00.000Z",
+    "TransactionDescription": "axis1229",
+    "Amt": -8226,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-09T00:00:00.000Z",
+    "TransactionDescription": "idfc0130",
+    "Amt": -86000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-08T00:00:00.000Z",
+    "TransactionDescription": "idfc0130",
+    "Amt": -30000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-08T00:00:00.000Z",
+    "TransactionDescription": "axis1229",
+    "Amt": -42000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-05T00:00:00.000Z",
+    "TransactionDescription": "axis1229",
+    "Amt": -59000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-05T00:00:00.000Z",
+    "TransactionDescription": "idfc0130",
+    "Amt": -96000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-03T00:00:00.000Z",
+    "TransactionDescription": "rbl6620",
+    "Amt": 6999,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-03T00:00:00.000Z",
+    "TransactionDescription": "idfc1410",
+    "Amt": 14999,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-03T00:00:00.000Z",
+    "TransactionDescription": "axis1229",
+    "Amt": -7000,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-02T00:00:00.000Z",
+    "TransactionDescription": "hdfc1502",
+    "Amt": 8499,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-02T00:00:00.000Z",
+    "TransactionDescription": "icici4003",
+    "Amt": 24848,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-02T00:00:00.000Z",
+    "TransactionDescription": "idfc0130",
+    "Amt": -44300,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-02T00:00:00.000Z",
+    "TransactionDescription": "hdfc0308",
+    "Amt": 11000,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-02T00:00:00.000Z",
+    "TransactionDescription": "hdfc0308",
+    "Amt": 11099,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-02T00:00:00.000Z",
+    "TransactionDescription": "hdfc1052",
+    "Amt": 8499,
+    "DebitCredit": "gave"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-01T00:00:00.000Z",
+    "TransactionDescription": "idfc0130",
+    "Amt": -27000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-01T00:00:00.000Z",
+    "TransactionDescription": "hdfc7082",
+    "Amt": -100000,
+    "DebitCredit": "got"
+  },
+  {
+    "name": "Rovin",
+    "TransactionDate": "2024-11-01T00:00:00.000Z",
+    "TransactionDescription": "axis1229",
+    "Amt": -100000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": 11099,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": 11099,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": 11000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Rbl6620",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": 17998,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Axis1229",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": -15000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "hdfc1502rupay",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": 11099,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc7082",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-30T00:00:00.000Z",
+    "Amt": -33300,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "rbl6620",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-29T00:00:00.000Z",
+    "Amt": 12499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "jupyter",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-27T00:00:00.000Z",
+    "Amt": -17000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-27T00:00:00.000Z",
+    "Amt": 12499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis1229",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-26T00:00:00.000Z",
+    "Amt": -9000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-26T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-26T00:00:00.000Z",
+    "Amt": 4499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-24T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-23T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi9869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-21T00:00:00.000Z",
+    "Amt": 52417,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "ax1229",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-21T00:00:00.000Z",
+    "Amt": -40000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-21T00:00:00.000Z",
+    "Amt": 52417,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-20T00:00:00.000Z",
+    "Amt": 17999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-19T00:00:00.000Z",
+    "Amt": 5551,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-18T00:00:00.000Z",
+    "Amt": 3400,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-17T00:00:00.000Z",
+    "Amt": 21599,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-17T00:00:00.000Z",
+    "Amt": 16109,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-16T00:00:00.000Z",
+    "Amt": 22999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "emiinterestau6864",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-15T00:00:00.000Z",
+    "Amt": 2600,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-15T00:00:00.000Z",
+    "Amt": 12499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-14T00:00:00.000Z",
+    "Amt": 71524,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-14T00:00:00.000Z",
+    "Amt": 71522,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-14T00:00:00.000Z",
+    "Amt": 71522,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-14T00:00:00.000Z",
+    "Amt": 71522,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-13T00:00:00.000Z",
+    "Amt": -350000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-12T00:00:00.000Z",
+    "Amt": 5378,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-12T00:00:00.000Z",
+    "Amt": 7999,
+    "DebitCredit": "gave t rovin"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-12T00:00:00.000Z",
+    "Amt": 33299,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-12T00:00:00.000Z",
+    "Amt": 99800,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-11T00:00:00.000Z",
+    "Amt": 10798,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbacksbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-11T00:00:00.000Z",
+    "Amt": -1200,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "Icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-10T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc7082",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": -70000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbm5342",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": -15000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "axis7889",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": 52647,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "yes6025",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": 54147,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": 52647,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "rbl6620",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": 54147,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": 33299,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": 56147,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbackaxis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-09T00:00:00.000Z",
+    "Amt": -2807,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-07T00:00:00.000Z",
+    "Amt": 26999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-06T00:00:00.000Z",
+    "Amt": 6999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-04T00:00:00.000Z",
+    "Amt": 31999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi9869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-04T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi9869",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-04T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-03T00:00:00.000Z",
+    "Amt": -100000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2024-10-02T00:00:00.000Z",
+    "Amt": -50000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "Axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-30T00:00:00.000Z",
+    "Amt": 9499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis7889",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-30T00:00:00.000Z",
+    "Amt": 9499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-29T00:00:00.000Z",
+    "Amt": 9499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-28T00:00:00.000Z",
+    "Amt": 8448,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-28T00:00:00.000Z",
+    "Amt": 11000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-26T00:00:00.000Z",
+    "Amt": 53647,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-25T00:00:00.000Z",
+    "Amt": -250000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-23T00:00:00.000Z",
+    "Amt": 134549,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-22T00:00:00.000Z",
+    "Amt": 71524,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-22T00:00:00.000Z",
+    "Amt": 71524,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "rbl6620",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-22T00:00:00.000Z",
+    "Amt": 8448,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "rbl6620",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-22T00:00:00.000Z",
+    "Amt": 30900,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-22T00:00:00.000Z",
+    "Amt": 120230,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-20T00:00:00.000Z",
+    "Amt": 69614,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-20T00:00:00.000Z",
+    "Amt": 69614,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-20T00:00:00.000Z",
+    "Amt": 20999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbmbank",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-20T00:00:00.000Z",
+    "Amt": -100000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-20T00:00:00.000Z",
+    "Amt": 44048,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Cash",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-19T00:00:00.000Z",
+    "Amt": -200000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "Idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-19T00:00:00.000Z",
+    "Amt": 28825,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-19T00:00:00.000Z",
+    "Amt": 50900,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Cash",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-18T00:00:00.000Z",
+    "Amt": -5000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "axis7889",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-17T00:00:00.000Z",
+    "Amt": 50900,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-17T00:00:00.000Z",
+    "Amt": -40000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-17T00:00:00.000Z",
+    "Amt": 10000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-17T00:00:00.000Z",
+    "Amt": 10000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis7889",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-17T00:00:00.000Z",
+    "Amt": 10000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-17T00:00:00.000Z",
+    "Amt": 10000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-15T00:00:00.000Z",
+    "Amt": 10648,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbacksbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-15T00:00:00.000Z",
+    "Amt": -1000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "Idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-12T00:00:00.000Z",
+    "Amt": -7000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-11T00:00:00.000Z",
+    "Amt": 11999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc7082",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-11T00:00:00.000Z",
+    "Amt": -17000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-10T00:00:00.000Z",
+    "Amt": 6999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-10T00:00:00.000Z",
+    "Amt": 999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-07T00:00:00.000Z",
+    "Amt": 48919,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbacksbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-06T00:00:00.000Z",
+    "Amt": -1000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-06T00:00:00.000Z",
+    "Amt": 10499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-06T00:00:00.000Z",
+    "Amt": 44999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-05T00:00:00.000Z",
+    "Amt": 24999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-03T00:00:00.000Z",
+    "Amt": 15499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-01T00:00:00.000Z",
+    "Amt": 13798,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-01T00:00:00.000Z",
+    "Amt": -45000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-01T00:00:00.000Z",
+    "Amt": -68778,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "hdfc7082",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-01T00:00:00.000Z",
+    "Amt": -10000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-09-01T00:00:00.000Z",
+    "Amt": -99999,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-31T00:00:00.000Z",
+    "Amt": 33299,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-31T00:00:00.000Z",
+    "Amt": 37800,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbm5342",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-27T00:00:00.000Z",
+    "Amt": -1500,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-27T00:00:00.000Z",
+    "Amt": -53500,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "flightrbl6620",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-27T00:00:00.000Z",
+    "Amt": 5856,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "flightau6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-27T00:00:00.000Z",
+    "Amt": 4667,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-21T00:00:00.000Z",
+    "Amt": -37098,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-18T00:00:00.000Z",
+    "Amt": 13798,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbacksbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-18T00:00:00.000Z",
+    "Amt": -1000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-18T00:00:00.000Z",
+    "Amt": 10999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-16T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-16T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-16T00:00:00.000Z",
+    "Amt": 4500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-13T00:00:00.000Z",
+    "Amt": 97200,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-13T00:00:00.000Z",
+    "Amt": 11634,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-11T00:00:00.000Z",
+    "Amt": 14499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbacksbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-11T00:00:00.000Z",
+    "Amt": -750,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-11T00:00:00.000Z",
+    "Amt": 14848,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-11T00:00:00.000Z",
+    "Amt": 18549,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-10T00:00:00.000Z",
+    "Amt": 90000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-10T00:00:00.000Z",
+    "Amt": 28154,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-10T00:00:00.000Z",
+    "Amt": 16535,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-09T00:00:00.000Z",
+    "Amt": -28000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-09T00:00:00.000Z",
+    "Amt": -20000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-09T00:00:00.000Z",
+    "Amt": -22000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-09T00:00:00.000Z",
+    "Amt": -30000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-08T00:00:00.000Z",
+    "Amt": -30000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-08T00:00:00.000Z",
+    "Amt": 7999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-08T00:00:00.000Z",
+    "Amt": -45000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "hdfc7082",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-08T00:00:00.000Z",
+    "Amt": -85000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-08T00:00:00.000Z",
+    "Amt": -70000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-08T00:00:00.000Z",
+    "Amt": 35000,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-07T00:00:00.000Z",
+    "Amt": 31999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54419,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": -340000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54421,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54421,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54421,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54421,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54419,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54419,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-04T00:00:00.000Z",
+    "Amt": 54419,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-08-01T00:00:00.000Z",
+    "Amt": -110000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "cashbackhdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-31T00:00:00.000Z",
+    "Amt": -1000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-31T00:00:00.000Z",
+    "Amt": -80000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-31T00:00:00.000Z",
+    "Amt": -50000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-31T00:00:00.000Z",
+    "Amt": 7398,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "indus5734",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-31T00:00:00.000Z",
+    "Amt": 11999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-31T00:00:00.000Z",
+    "Amt": 9999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-30T00:00:00.000Z",
+    "Amt": 9999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "indus5734",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-30T00:00:00.000Z",
+    "Amt": 4999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbackhdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-30T00:00:00.000Z",
+    "Amt": -1000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-26T00:00:00.000Z",
+    "Amt": 12413,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-26T00:00:00.000Z",
+    "Amt": 34999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-26T00:00:00.000Z",
+    "Amt": 12413,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-26T00:00:00.000Z",
+    "Amt": 16999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-26T00:00:00.000Z",
+    "Amt": 16999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-26T00:00:00.000Z",
+    "Amt": 12413,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-26T00:00:00.000Z",
+    "Amt": 12413,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-25T00:00:00.000Z",
+    "Amt": 17999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-24T00:00:00.000Z",
+    "Amt": -45100,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-24T00:00:00.000Z",
+    "Amt": -100000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-22T00:00:00.000Z",
+    "Amt": 15499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-22T00:00:00.000Z",
+    "Amt": 20484,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-22T00:00:00.000Z",
+    "Amt": 20484,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-22T00:00:00.000Z",
+    "Amt": -22500,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-21T00:00:00.000Z",
+    "Amt": 10749,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-20T00:00:00.000Z",
+    "Amt": -25000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-20T00:00:00.000Z",
+    "Amt": -25000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-20T00:00:00.000Z",
+    "Amt": -25000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-20T00:00:00.000Z",
+    "Amt": -50000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-17T00:00:00.000Z",
+    "Amt": 10499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbacksbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-17T00:00:00.000Z",
+    "Amt": -1000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-16T00:00:00.000Z",
+    "Amt": 11999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbacksbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-16T00:00:00.000Z",
+    "Amt": -750,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-15T00:00:00.000Z",
+    "Amt": 14500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-15T00:00:00.000Z",
+    "Amt": 14500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-14T00:00:00.000Z",
+    "Amt": 6999,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-14T00:00:00.000Z",
+    "Amt": 12898,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-14T00:00:00.000Z",
+    "Amt": 14500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "Icici3980",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-13T00:00:00.000Z",
+    "Amt": -10000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-13T00:00:00.000Z",
+    "Amt": 18500,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc7082",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-13T00:00:00.000Z",
+    "Amt": -13100,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-12T00:00:00.000Z",
+    "Amt": 13218,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-12T00:00:00.000Z",
+    "Amt": 14499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-12T00:00:00.000Z",
+    "Amt": 33897,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-12T00:00:00.000Z",
+    "Amt": -50000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-12T00:00:00.000Z",
+    "Amt": 14499,
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-11T00:00:00.000Z",
+    "Amt": 30999,
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 18500,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-10T00:00:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-09T00:00:00.000Z",
+    "Amt": -18500,
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -30000,
+    "TransactionDescription": "icici",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 16880,
+    "TransactionDescription": "yes6025",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -45000,
+    "TransactionDescription": "idfc0130",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-07T00:00:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 188239,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 43490,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 18500,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17249,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4000,
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 3448,
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 27999,
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-07-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -200000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-29T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 5000,
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-23T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 5499,
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-23T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 22998,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 24200,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 24200,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 24200,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -20000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-20T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 29798,
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-20T00:00:00.000Z",
+    "Amt": 61113,
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -96500,
+    "TransactionDescription": "icici",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-16T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -183000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-16T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -94000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-16T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 70567,
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-16T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 70569,
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-16T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 70567,
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-16T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 70569,
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-16T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17499,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-15T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 70569,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 14000,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 70567,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -168000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 12748,
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbackaxis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-13T00:00:00.000Z",
+    "Amt": -750,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-13T00:00:00.000Z",
+    "Amt": 11999,
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -40000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-11T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 12499,
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -10999,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-09T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 17499,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -20000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-06T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -40000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-06T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-05T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -60000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-04T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 21962,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 14999,
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 21962,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 21962,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 21962,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-06-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-31T00:00:00.000Z",
+    "Amt": 17498,
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17498,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -40000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 18849,
+    "TransactionDescription": "edge1036",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-28T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "emicancelhdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-28T00:00:00.000Z",
+    "Amt": -1034,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "cashbackhdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-28T00:00:00.000Z",
+    "Amt": -2602,
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 25499,
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-25T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 16999,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-25T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbackicici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-21T00:00:00.000Z",
+    "Amt": -900,
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 33798,
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 11098,
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -87219,
+    "TransactionDescription": "induspay",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-18T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -97000,
+    "TransactionDescription": "aupayment",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-18T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 44881,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 44881,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 44881,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -58000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-10T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 14000,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 2832,
+    "TransactionDescription": "onecharges",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbackindus6864",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-08T00:00:00.000Z",
+    "Amt": -1500,
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 16999,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -150000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-06T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 51431,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 51431,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 25548,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -50000,
+    "TransactionDescription": "paytm",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-05T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 47900,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 14084,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 47900,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 30167,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 15499,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 29999,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "TransactionDescription": "cashbackaxis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-03T00:00:00.000Z",
+    "Amt": -1000,
+    "DebitCredit": "got"
+  },
+  {
+    "TransactionDescription": "cashbackaxis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-03T00:00:00.000Z",
+    "Amt": -600,
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 20107,
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 11097,
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 46499,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 46499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 0,
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -150000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -63000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-05-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 17998,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -10000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-23T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10499,
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10499,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-19T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -60000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-19T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-19T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 11398,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-17T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -48000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-17T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 34018,
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 27497,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17665,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17665,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17665,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17665,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 35499,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 12898,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 5499,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2024-04-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -20000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-27T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -7000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-27T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -36000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-26T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -50000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-26T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -92000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-25T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -49999,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-25T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 185000,
+    "TransactionDescription": "cash/pooja",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-24T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10499,
+    "TransactionDescription": "hdfc0308",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -28500,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-21T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 186000,
+    "TransactionDescription": "cash/shivam",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-19T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-18T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-18T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-16T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 16999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-16T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -219000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-12T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 23999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 29999,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-10T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 21499,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 21499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 23999,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -99000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-02T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -90000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-03-02T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 12999,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-02-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 41998,
+    "TransactionDescription": "icici4003",
+    "name": "Rovin",
+    "TransactionDate": "2024-02-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 45499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-02-17T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 14999,
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-02-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -18000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-02-06T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-28T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-28T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 145658,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-27T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-25T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-25T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 9999,
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-17T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10998,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-16T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 37498,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 64147,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -95000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -24000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2024-01-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 11998,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 22999,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-25T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-21T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 12499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -10000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-20T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -50000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-17T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 9999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-15T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -300000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -250000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-02T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-12-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 99882,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-29T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -160000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-29T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 14999,
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-23T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 7999,
+    "TransactionDescription": "axis5077",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-23T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -150000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 19999,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-12T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 17999,
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -5130,
+    "TransactionDescription": "cardpayment",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-12T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 5130,
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-09T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -45000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 11091,
+    "TransactionDescription": "yes6025",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 99617,
+    "TransactionDescription": "au6954",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -663,
+    "TransactionDescription": "gstrebate",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-02T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -663,
+    "TransactionDescription": "gstrebate",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-02T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -47000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-02T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 7829,
+    "TransactionDescription": "geyser",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 47618,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 7829,
+    "TransactionDescription": "geyser",
+    "name": "Rovin",
+    "TransactionDate": "2023-11-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 51647,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 51647,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 51647,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 25998,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 18998,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 89999,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -123000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -11000,
+    "TransactionDescription": "redmi125g",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -2300,
+    "TransactionDescription": "airfilter",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -10000,
+    "TransactionDescription": "airpurifier",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 67902,
+    "TransactionDescription": "one6868",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 75000,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 54000,
+    "TransactionDescription": "icici1001",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -120000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-27T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -10500,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-24T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -20000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-24T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 55147,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -60000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-19T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 15499,
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-17T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 55897,
+    "TransactionDescription": "axis8121",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17999,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -10000,
+    "TransactionDescription": "airpurifier",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-12T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 350000,
+    "TransactionDescription": "icicacc",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-09T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 100000,
+    "TransactionDescription": "icicacc",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-09T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 11749,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -10349,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10349,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -13000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -7000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -54000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 19999,
+    "TransactionDescription": "hdfc1502",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 53147,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17499,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17499,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 45749,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 45749,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 45749,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -22000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-04T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2023-10-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 21298,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 16044,
+    "TransactionDescription": "yes6025",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 135000,
+    "TransactionDescription": "rbl0092",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 46000,
+    "TransactionDescription": "idfc1410",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 96000,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 70000,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -2000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-21T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -27000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-19T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-09-08T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 12499,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 12499,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 12499,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -12499,
+    "TransactionDescription": "cardpayment",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -12499,
+    "TransactionDescription": "cardpayment",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 12499,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-30T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -39000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-23T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 40850,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-23T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 14499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -100000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-16T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 70899,
+    "TransactionDescription": "sbi1869",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -4500,
+    "TransactionDescription": "cardpayment",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 75000,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -15000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-11T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 28750,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 39999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -40000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-08-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -10601,
+    "TransactionDescription": "gstrebate",
+    "name": "Rovin",
+    "TransactionDate": "2023-07-24T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 21498,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-07-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 30999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-07-17T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 8498,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-07-10T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -15000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-07-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -10000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-06-04T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 30999,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-06-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -16000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-06-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -29999,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-05-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 29999,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-05-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 29090,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2023-05-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 15000,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-05-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -18999,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-05-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-05-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -9000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -24999,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-12T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 51298,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -38000,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-08T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 28999,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-06T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 27999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 8499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -28500,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-05T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -18061,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-04-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 12499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-27T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 500,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 13649,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-10T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -35000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-05T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 22653,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10000,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 26030,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 16999,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-02T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -50000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-03-02T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -25500,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-02-28T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -27020,
+    "TransactionDescription": "paid(phone)",
+    "name": "Rovin",
+    "TransactionDate": "2023-02-04T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 24860,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-02-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -20000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-02-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -20000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-02-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10475,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-27T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 30499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-26T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -36500,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-26T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 14261,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-25T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 23852,
+    "TransactionDescription": "indus6864",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-25T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -52000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-23T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 47999,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-23T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 6798,
+    "TransactionDescription": "rbl0092",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 12999,
+    "TransactionDescription": "rbl0092",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 46999,
+    "TransactionDescription": "rbl0092",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -65068,
+    "TransactionDescription": "revicici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -7000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 65068,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 8749,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -9000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-13T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10499,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 8749,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-13T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -28000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-13T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 16499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 6199,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2023-01-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -21000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-12-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -24000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-12-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -50000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2022-12-28T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 13499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-12-12T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10149,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2022-12-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 13019,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-12-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 13019,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-12-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -10000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-11-20T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -35000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-29T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -23500,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-22T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 23499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -4500,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-21T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 4500,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 9490,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-20T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -8549,
+    "TransactionDescription": "reversalicici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-19T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 33019,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-18T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 8549,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-18T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 33019,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-18T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 8549,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-18T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -15000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-18T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -51038,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-18T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -8549,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-18T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 43490,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 43490,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -21000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -33769,
+    "TransactionDescription": "reversalsbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -33769,
+    "TransactionDescription": "reversalsbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-14T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -50000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-12T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 8549,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -67538,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-11T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 8549,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 33769,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -17098,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-11T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 33769,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-11T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 33769,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-09T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 33769,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-09T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -33769,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-09T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -17500,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -16500,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 16999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 25836,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 16499,
+    "TransactionDescription": "citi7889",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -25786,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -57000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-03T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 57269,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-03T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -33500,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -22000,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -7739,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 53498,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 7739,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 21999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-01T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -20000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-10-01T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -32435,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-30T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -44999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-29T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 44999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-29T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -19500,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-27T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 19499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-27T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -45434,
+    "TransactionDescription": "reversalsbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-26T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 5309,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-24T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -14000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-24T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 5309,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-24T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -15600,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-22T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 8499,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 8499,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 30019,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 45434,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 45434,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-21T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-19T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -25000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-19T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 28999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-19T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -11999,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-17T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 13499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-17T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 33999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-15T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -34000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-15T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10291,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10291,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-14T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 12999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-08T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -5479,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-07T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 5479,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-07T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -44000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-05T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 44000,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-09-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -10026,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -13000,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-27T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 13028,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-27T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -20706,
+    "TransactionDescription": "upi",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-22T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 10728,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10728,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-22T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 9028,
+    "TransactionDescription": "hdfc1701",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-18T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -17990,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-05T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 16000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 14528,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-05T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -12999,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-05T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -21000,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-04T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 21737,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2022-08-04T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 20999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -5000,
+    "TransactionDescription": "gpay",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": 21898,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 14999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 17499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 18071,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10740,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 23499,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10740,
+    "TransactionDescription": "sbi7405",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 10740,
+    "TransactionDescription": "sbi9659",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": 11999,
+    "TransactionDescription": "icici7003",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "gave"
+  },
+  {
+    "Amt": -15000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -5000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -60000,
+    "TransactionDescription": "idfc",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -41500,
+    "TransactionDescription": "cash",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -10740,
+    "TransactionDescription": "gpay",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  },
+  {
+    "Amt": -24000,
+    "TransactionDescription": "gpay",
+    "name": "Rovin",
+    "TransactionDate": "2019-12-31T18:30:00.000Z",
+    "DebitCredit": "got"
+  }
+]

@@ -1,0 +1,273 @@
+/* Global Settings */
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  font-size: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  box-sizing: border-box;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+/* Ensure form and inputs stay inside their container */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Heading */
+h4 {
+  margin-top: 1.5rem;
+  font-size: 3.4rem;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+/* Task Form Styling */
+.task-form {
+  background-color: #2c2c2c;
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.5);
+  max-width: 100%; /* Form takes up full width */
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+/* Flex container for logout button and heading */
+.task-form > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Logout Button in Medicine Sheet Container */
+.logout-form {
+  margin-right: 20px;
+}
+
+#logoutButton {
+  background-color: #f44336; /* Red color for logout */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#logoutButton:hover {
+  background-color: #d32f2f; /* Darker red on hover */
+}
+
+#logoutButton:active {
+  transform: scale(0.95); /* Slight shrink on click */
+}
+
+/* Form Controls */
+.form-control {
+  margin-bottom: 25px;
+  display: block;
+  width: 100%;
+  max-width: 100%; /* Ensure form controls take up full width */
+}
+
+.form-control input {
+  width: 100%;
+  padding: 18px;
+  font-size: 2.5rem;
+  border: 2px solid #555;
+  background-color: #3a3a3a;
+  color: #f0f0f0;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  max-width: 100%; /* Ensure input fields take up full width */
+}
+
+.form-control input::placeholder {
+  color: #999;
+}
+
+.form-control input:focus {
+  border-color: #4caf50;
+  background-color: white;
+  color: black;
+}
+
+/* Submit Button Styling */
+.btn {
+  background-color: #4caf50;
+  color: white;
+  padding: 18px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.6rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  max-width: 100%; /* Ensure buttons take up full width */
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+/* Tasks Container and Task List */
+.tasks-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto;
+  max-width: 100%; /* Ensure task container takes up full width */
+  text-align: center;
+}
+
+.tasks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.single-task {
+  background-color: #333;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  width: 100%;
+  max-width: 100%; /* Ensure task items take up full width */
+}
+
+.single-task h5 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  color: #f0f0f0;
+  margin: 10px 0;
+}
+
+/* Edit and Delete Button Styles */
+.task-links {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.task-links a,
+.task-links button {
+  background-color: #444;
+  color: #f0f0f0;
+  border: none;
+  border-radius: 5px;
+  padding: 12px;
+  margin-left: 10px;
+  font-size: 3rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.task-links a:hover,
+.task-links button:hover {
+  background-color: #4caf50;
+}
+
+.task-links a i,
+.task-links button i {
+  margin-right: 5px;
+}
+
+.task-links a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.task-links button {
+  display: flex;
+  align-items: center;
+}
+
+.task-links button i {
+  color: #f0f0f0;
+}
+
+/* Mobile Friendly Styling */
+@media (max-width: 768px) {
+  .task-form {
+    max-width: 100%;
+    padding: 15px; /* Reduce padding on smaller screens */
+    margin: 0; /* Ensure no margin pushes the form out */
+  }
+
+  .form-control input {
+    font-size: 1.4rem; /* Slightly smaller for mobile */
+    padding: 15px; /* Reduce padding for mobile */
+    max-width: 100%; /* Ensure full width */
+  }
+
+  .btn {
+    padding: 15px;
+    font-size: 1.5rem;
+    max-width: 100%;
+  }
+
+  .single-task h5 {
+    font-size: 1.4rem;
+  }
+
+  .task-links a,
+  .task-links button {
+    font-size: 1.2rem;
+    padding: 10px;
+  }
+}
+
+#date {
+  color: #999;
+}
+/* Logout Button in Medicine Sheet Container */
+.logout-form {
+  margin-bottom: 25px; /* Same spacing as form controls */
+  width: 100%; /* Make the form take full width */
+}
+
+#logoutButton {
+  background-color: #4caf50; /* Match the submit button's green color */
+  color: white;
+  padding: 18px; /* Same padding as the submit button */
+  border: none;
+  border-radius: 10px; /* Same rounded corners */
+  font-size: 1.6rem; /* Same font size */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+  width: 100%; /* Make the button take full width */
+  display: block; /* Ensure block-level element for full width */
+}
+
+#logoutButton:hover {
+  background-color: #45a049; /* Match the submit button's hover color */
+}
+
+#logoutButton:active {
+  transform: scale(0.98); /* Add the click effect */
+}
+
+/* Flex container for logout button and heading */
+.task-form > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
